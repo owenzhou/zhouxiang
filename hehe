@@ -1,3 +1,0 @@
-var zhou = function () {
-    alert('my name is hello world');
-}
