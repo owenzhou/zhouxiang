@@ -1,4 +1,0 @@
-我人有的和主产不为这工要在地一上是中国经以发了民同
-void main () {
-  print('hello world');
-}
